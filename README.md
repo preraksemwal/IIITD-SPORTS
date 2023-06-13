@@ -1,9 +1,10 @@
 <img align="left" src="https://github.com/preraksemwal/IIITD_SPORTS/assets/77500750/bf15c9df-9676-4650-b190-f0ac304f50b7" alt="image" width=200>
+
 IIITD Sports is a cutting-edge application designed to seamlessly monitor **real-time occupancy** of sports facilities, showcase an extensive equipment repository, facilitate equipment lending, and deliver up-to-the-minute news updates encompassing all aspects of the dynamic world of IIITD Sports.
 
 
+<img align="center" src="https://github.com/preraksemwal/IIITD_SPORTS/assets/77500750/67298157-8553-4492-96e4-44e358031e23" alt="image" >
 
-![image](https://github.com/preraksemwal/IIITD_SPORTS/assets/77500750/67298157-8553-4492-96e4-44e358031e23)
 
 # **Useful Links**
 
